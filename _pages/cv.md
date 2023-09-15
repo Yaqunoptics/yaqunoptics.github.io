@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Optical Information Science and Technology, Shandong University, 2012
+* M.S. in Optical Engineering, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, 2015
+* Ph.D in Physics, KTH Royal Institute of technology, 2024 (expected)
 
 Work experience
 ======
@@ -29,12 +29,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  * Matlab, Mathematica
+  * Origin, Visio, Photoshop, Adobe Illustrator
+* Lauguage
+  * Chinese(native)
+  * English(sophiscated, IELTS (7.0))
+  #* Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
