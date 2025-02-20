@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student majoring in nonlinear optics and laser physics in KTH Royal Institute of Technology. My reserach interests includes second order nonlinear optics, quasi-phase matching, Terahertz generation and modulation, and Topological optics.
+I am a PhD student majoring in nonlinear optics and laser physics in KTH Royal Institute of Technology. 
 
-#For more info
+My reserach interests includes laser physics, nonlinear optics, Mid-infrared laser source, terahertz source, and topological field modulation.
+
+
 #------
-#More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
