@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-01
 venue: 'Optica High-brightness Sources and Light-driven Interactions Congress 2022'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Y. Liu, K. M. Mølster, A. Zukauskas, C. Lee, and V. Pasiskevicius, "2 μm type-II optical parametric oscillators in PPRKTP," in Optica High-brightness Sources and Light-driven Interactions Congress 2022, Technical Digest Series (Optica Publishing Group, 2022), paper MW3C.4.'
+citation: 'Liu, Yaqun, Kjell Martin Mølster, Andrius Zukauskas, Cherrie Lee, and Valdas Pasiskevicius. "2 μm type-II optical parametric oscillators in PPRKTP." In Mid-Infrared Coherent Sources, pp. MW3C-4. Optica Publishing Group, 2022.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
