@@ -2,7 +2,7 @@
 title: "Precisely Targeting Molecular Absorption Lines in 2 μm Region by Optical Parametric Oscillator using Type-II PPRKTP"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: June 2021
 venue: 'Conference: 2021 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
