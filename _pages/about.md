@@ -17,9 +17,9 @@ My reserach interests includes nonlinear optics, Mid-infrared laser source, tera
 
 Education
 ======
-* B.S. in Optical Information Science and Technology, Shandong University
-* M.S. in Optical Engineering, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences
-* Ph.D in Physics, KTH Royal Institute of technology  
+* <b>B.S.</b> in Optical Information Science and Technology, Shandong University
+* <b>M.S.</b> in Optical Engineering, Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences
+* <b>Ph.D</b> in Physics, KTH Royal Institute of technology  
 
 Publications
 ======
