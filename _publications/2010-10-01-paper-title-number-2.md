@@ -1,7 +1,7 @@
 ---
 title: "2 μm type-II optical parametric oscillators in PPRKTP"
 collection: publications
-permalink: [/publication/2010-10-01-paper-title-number-2](https://opg.optica.org/abstract.cfm?URI=MICS-2022-MW3C.4)
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: ''
 date: 2010-10-01
 venue: 'Optica High-brightness Sources and Light-driven Interactions Congress 2022'
