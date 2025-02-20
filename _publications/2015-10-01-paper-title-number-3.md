@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Type-II PPRKTP optical parametric oscillators in the 2 µm spectral range"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2022-11-01
+venue: 'Journal of the Optical Society of America B'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Yaqun Liu, Kjell Martin Mølster, Andrius Zukauskas, Cherrie S. J. Lee, and Valdas Pasiskevicius, "Type-II PPRKTP optical parametric oscillators in the 2 µm spectral range," J. Opt. Soc. Am. B 40, A36-A43 (2023)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
