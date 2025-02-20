@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student majoring in nonlinear optics and laser physics in KTH Royal Institute of Technology. 
+I am a PhD student majoring in laser physics in KTH Royal Institute of Technology. 
 
-My reserach interests includes laser physics, nonlinear optics, Mid-infrared laser source, terahertz source, and topological field modulation.
+My reserach interests includes nonlinear optics, Mid-infrared laser source, terahertz source, and topological field modulation.
 
 
 #------
